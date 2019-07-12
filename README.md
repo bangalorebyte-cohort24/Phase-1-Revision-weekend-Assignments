@@ -64,3 +64,13 @@ create an MVC based program that allows a user to enter the location that he or 
 * The user should be able to get the min and max temperature in Celcius for a specific date, time and location.
 * There should be "Miscellaneous Weather Data" option where wind-speeds, humity and cloudiness are mentioned.
 * Ensure that the code does not break due to invalid user inputs and there is a "Go-Back" or "Exit" option wherever appropriate.
+
+
+
+# Webscrapping and SQL Assignment
+
+Scrape the tables in this wiki page.  https://en.wikipedia.org/wiki/2019_Cricket_World_Cup. 
+* Points table 
+* Tournament Progress
+
+
