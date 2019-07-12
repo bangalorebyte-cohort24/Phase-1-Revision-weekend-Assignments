@@ -54,7 +54,6 @@ http://dev.markitondemand.com/MODApis/Api/v2/Quote/json?symbol=MSFT
 
 
 # WeekendAssignment-2
-Weekend Assignment for Week of June-7th, 2019
 
 ## MVC Using the OpenWeatherMap API for 5 days (https://openweathermap.org/forecast5) 
 
